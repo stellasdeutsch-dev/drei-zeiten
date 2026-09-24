@@ -23,6 +23,6 @@
 
 ## Правки
 
-- Ссылки на Telegram и Instagram — в `index.html` (поиск по `t.me`).
+- Ссылка на покупку (Lava.top) — в `index.html`, поиск по `app.lava.top`. Telegram остался только для вопросов.
 - Цены и состав платформы — секции `#price` и `#platform`.
 - Медиа лежит в `media/` (`video/` — mp4, `img/` — скриншоты и орнаменты).

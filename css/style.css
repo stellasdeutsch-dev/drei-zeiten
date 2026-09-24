@@ -802,3 +802,8 @@ button{ font:inherit; color:inherit }
   .scrolldown span{ animation:none }
   *{ transition-duration:.01ms !important }
 }
+
+/* кнопки покупки в карточках цен */
+.price__btn{ margin-top:18px }
+.price--best .price__btn{ display:block; width:100% }
+.link-plain{ color:var(--orange); font-weight:600 }
